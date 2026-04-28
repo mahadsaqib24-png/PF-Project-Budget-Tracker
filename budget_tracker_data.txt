@@ -1,0 +1,10 @@
+Income,Salary,Bonus,13000.00,12/12/2025
+Expense,Food,Party,1400.00,13/12/2025
+Expense,Transport,Point fees,10000.00,14/12/2024
+Income,Profits,Invigilation,10000.00,15/12/2024
+Expense,Utilities,General Items,12000.00,12/12/2025
+Income,Profits,Bank Profits,33000.00,11/11/2025
+Expense,Rent,April's Rent,10000.00,24/04/2025
+Expense,Other,Anees's Loan,5000.00,08/10/2025
+Income,Bonus,performance,50000.00,01/01/2000
+Income,Salary,bla bla bla,99999.00,5 5 2025
